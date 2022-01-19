@@ -7,20 +7,20 @@
       "Application": "Pcbnew",
       "Version":     "(5.1.10)-1"
     },
-    "CreationDate":  "2022-01-18T20:55:32+07:00"
+    "CreationDate":  "2022-01-19T08:45:22+07:00"
   },
   "GeneralSpecs":
   {
     "ProjectId":
     {
-      "Name": "ADuM_I2C_v3_pnlz2x4",
-      "GUID": "4144754d-5f49-4324-935f-76335f706e6c",
+      "Name": "PCB_4x_pnlz1_3",
+      "GUID": "5043425f-3478-45f7-906e-6c7a315f332e",
       "Revision": "rev?"
     },
     "Size":
     {
       "X": 50.100,
-      "Y": 50.100
+      "Y": 76.100
     },
     "LayerNumber": 4,
     "BoardThickness":  1.600
@@ -32,70 +32,72 @@
       "PadToPad":  0.200,
       "PadToTrack":  0.200,
       "TrackToTrack":  0.200,
-      "MinLineWidth":  0.300
+      "MinLineWidth":  0.250
     },
     {
       "Layers": "Inner",
       "PadToPad":  0.200,
       "PadToTrack":  0.200,
       "TrackToTrack":  0.200,
-      "MinLineWidth":  0.300
+      "MinLineWidth":  0.250,
+      "TrackToRegion":  0.254,
+      "RegionToRegion":  0.254
     }
   ],
   "FilesAttributes":
   [
     {
-      "Path":  "ADuM_I2C_v3_pnlz2x4-F_Cu.gbr",
+      "Path":  "PCB_4x_pnlz1_3-F_Cu.gbr",
       "FileFunction":  "Copper,L1,Top",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "ADuM_I2C_v3_pnlz2x4-In1_Cu.gbr",
+      "Path":  "PCB_4x_pnlz1_3-In1_Cu.gbr",
       "FileFunction":  "Copper,L2,Inr",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "ADuM_I2C_v3_pnlz2x4-In2_Cu.gbr",
+      "Path":  "PCB_4x_pnlz1_3-In2_Cu.gbr",
       "FileFunction":  "Copper,L3,Inr",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "ADuM_I2C_v3_pnlz2x4-B_Cu.gbr",
+      "Path":  "PCB_4x_pnlz1_3-B_Cu.gbr",
       "FileFunction":  "Copper,L4,Bot",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "ADuM_I2C_v3_pnlz2x4-F_Paste.gbr",
+      "Path":  "PCB_4x_pnlz1_3-F_Paste.gbr",
       "FileFunction":  "SolderPaste,Top",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "ADuM_I2C_v3_pnlz2x4-B_Paste.gbr",
+      "Path":  "PCB_4x_pnlz1_3-B_Paste.gbr",
       "FileFunction":  "SolderPaste,Bot",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "ADuM_I2C_v3_pnlz2x4-F_SilkS.gbr",
+      "Path":  "PCB_4x_pnlz1_3-F_SilkS.gbr",
       "FileFunction":  "Legend,Top",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "ADuM_I2C_v3_pnlz2x4-B_SilkS.gbr",
+      "Path":  "PCB_4x_pnlz1_3-B_SilkS.gbr",
       "FileFunction":  "Legend,Bot",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "ADuM_I2C_v3_pnlz2x4-F_Mask.gbr",
+      "Path":  "PCB_4x_pnlz1_3-F_Mask.gbr",
       "FileFunction":  "SolderMask,Top",
       "FilePolarity":  "Negative"
     },
     {
-      "Path":  "ADuM_I2C_v3_pnlz2x4-B_Mask.gbr",
+      "Path":  "PCB_4x_pnlz1_3-B_Mask.gbr",
       "FileFunction":  "SolderMask,Bot",
       "FilePolarity":  "Negative"
     },
     {
-      "Path":  "ADuM_I2C_v3_pnlz2x4-Edge_Cuts.gbr",
+      "Path":  "PCB_4x_pnlz1_3-Edge_Cuts.gbr",
       "FileFunction":  "Profile",
       "FilePolarity":  "Positive"
     }
